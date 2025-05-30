@@ -1,4 +1,4 @@
-# Big Bang Theory Scripts Season 1 (2017)
+# Big Bang Theory Scripts Season 1 (2007)
 This is where the story began.
 
 This season includes 17 episode, here are the list: 
