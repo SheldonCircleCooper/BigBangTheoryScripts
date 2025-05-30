@@ -182,207 +182,209 @@
 
 **Leonard**: Well it’s not difficult, you just listen to what she says and then you say something appropriate in response.
 
-Sheldon: To what end?
+**Sheldon**: To what end?
 
-Leonard: Hi. Again.
+*(**Leonard** knocks 4A and **Penny** opens the door)*
 
-Penny: Hi.
+**Leonard**: Hi. Again.
 
-Sheldon: Hi.
+**Penny**: Hi.
 
-Leonard: Hi.
+**Sheldon**: Hi.
 
-Penny: Hi.
+**Leonard**: Hi.
 
-Leonard: Anyway, um. We brought home Indian food. And, um. I know that moving can be stressful, and I find that when I’m undergoing stress, that good food and company can have a comforting effect. Also, curry is a natural laxative, and I don’t have to tell you that, uh, a clean colon is just one less thing to worry about.
+**Penny**: Hi.
 
-Sheldon: Leonard, I’m not expert here but I believe in the context of a luncheon invitation, you might want to skip the reference to bowel movements.
+**Leonard**: Anyway, um. We brought home Indian food. And, um. I know that moving can be stressful, and I find that when I’m undergoing stress, that good food and company can have a comforting effect. Also, curry is a natural laxative, and I don’t have to tell you that, uh, a clean colon is just... one less thing to worry about.
 
-Penny: Oh, you’re inviting me over to eat?
+**Sheldon**: *(Whispering)* Leonard, I’m not expert here but I believe in the context of a luncheon invitation, you might want to skip the reference to bowel movements.
 
-Leonard: Uh, yes.
+**Penny**: Oh, you’re inviting me over to eat?
 
-Penny: Oh, that’s so nice, I’d love to.
+**Leonard**: Uh, yes.
 
-Leonard: Great.
+**Penny**: Oh, that’s so nice, I’d love to.
 
-Penny: So, what do you guys do for fun around here?
+**Leonard**: Great. *(Opening the door of 4A)*
 
-Sheldon: Well, today we tried masturbating for money.
+**Penny**: So, what do you guys do for fun around here?
+
+**Sheldon**: Well, today we tried masturbating for money.
 
 Credits sequence.
 
-Scene: Sheldon and Leonard’s apartment.
+## Scene: Sheldon and Leonard’s apartment.
 
-Leonard: Okay, well, make yourself at home.
+**Leonard**: Okay, well, make yourself at home.
 
-Penny: Okay, thankyou.
+**Penny**: Okay, thank you.
 
-Leonard: You’re very welcome.
+**Leonard**: You’re very welcome.
 
-Penny: This looks like some serious stuff, Leonard, did you do this?
+**Penny**: *(Steps in front of one board)* This looks like some serious stuff, Leonard, did you do this?
 
-Sheldon: Actually that’s my work.
+**Sheldon**: Actually that’s my work.
 
-Penny: Wow.
+**Penny**: Wow.
 
-Sheldon: Yeah, well, it’s just some quantum mechanics, with a little string theory doodling around the edges. That part there, that’s just a joke, it’s a spoof of the Bourne-Oppenheimer approximation.
+**Sheldon**: Yeah, well, it’s just some quantum mechanics, with a little string theory doodling around the edges. That part there, that’s just a joke, it’s a spoof of the Bourne-Oppenheimer approximation.
 
-Penny: So you’re like, one of those, beautiful mind genius guys.
+**Penny**: So you’re like, one of those, beautiful mind genius guys.
 
-Sheldon: Yeah.
+**Sheldon**: Yeah.
 
-Penny: This is really impressive.
+**Penny**: This is really impressive.
 
-Leonard: I have a board. If you like boards, this is my board.
+**Leonard**: *(Pointing his own board)* I have a board. If you like boards, this is my board.
 
-Penny: Holy smokes.
+**Penny**: Holy smokes.
 
-Sheldon: If by holy smokes you mean a derivative restatement of the kind of stuff you can find scribbled on the wall of any men’s room at MIT, sure.
+**Sheldon**: If by holy smokes you mean a derivative restatement of the kind of stuff you can find scribbled on the wall of any men’s room at MIT, sure.
 
-Leonard: What?
+**Leonard**: What?
 
-Sheldon: Oh, come on. Who hasn’t seen this differential below “here I sit broken hearted?”
+**Sheldon**: Oh, come on. Who hasn’t seen this differential below “here I sit broken hearted?”
 
-Leonard: At least I didn’t have to invent twenty-six dimensions just to make the math come out.
+**Leonard**: At least I didn’t have to invent twenty-six dimensions just to make the math come out.
 
-Sheldon: I didn’t invent them, they’re there.
+**Sheldon**: I didn’t invent them, they’re there.
 
-Leonard: In what universe?
+**Leonard**: In what universe?
 
-Sheldon: In all of them, that is the point.
+**Sheldon**: In all of them, that is the point.
 
-Penny: Uh, do you guys mind if I start?
+**Penny**: *(Siting at the right edge of the couch)* Uh, do you guys mind if I start?
 
-Sheldon: Um, Penny, that’s where I sit.
+**Sheldon**: Um, Penny, that’s where I sit.
 
-Penny: So, sit next to me.
+**Penny**: So, sit next to me.
 
-Sheldon: No, I sit there.
+**Sheldon**: *(A bit hesitation, then shake his head)* No, I sit there.
 
-Penny: What’s the difference?
+**Penny**: What’s the difference?
 
-Sheldon: What’s the difference?
+**Sheldon**: What’s the difference?
 
-Leonard: Here we go.
+**Leonard**: Here we go.
 
-Sheldon: In the winter that seat is close enough to the radiator to remain warm, and yet not so close as to cause perspiration. In the summer it’s directly in the path of a cross breeze created by open windows there, and there. It faces the television at an angle that is neither direct, thus discouraging conversation, nor so far wide to create a parallax distortion, I could go on, but I think I’ve made my point.
+**Sheldon**: In the winter that seat is close enough to the radiator to remain warm, and yet not so close as to cause perspiration. In the summer it’s directly in the path of a cross breeze created by open windows there, and there. It faces the television at an angle that is neither direct, thus discouraging conversation, nor so far wide to create a parallax distortion... I could go on, but I think I’ve made my point.
 
-Penny: Do you want me to move?
+**Penny**: Do you want me to move?
 
-Sheldon: Well.
+**Sheldon**: Well.
 
-Leonard: Just sit somewhere else.
+**Leonard**: *(To **Sheldon**)* Just sit somewhere else.
 
-Sheldon: Fine. (Wanders in circles, looking lost.)
+**Sheldon**: Fine. (Wanders in circles, looking lost.)
 
-Leonard: Sheldon, sit!
+**Leonard**: Sheldon, sit!
 
-Sheldon: Aaah!
+**Sheldon**: Aaah!
 
-Leonard: Well this is nice. We don’t have a lot of company over.
+**Leonard**: Well this is nice. We don’t have a lot of company over.
 
-Sheldon: That’s not true. Koothrapali and Wolowitz come over all the time.
+**Sheldon**: That’s not true. Koothrapali and Wolowitz come over all the time.
 
-Leonard: Yes I now, but…
+**Leonard**: Yes I know, but…
 
-Sheldon: Tuesday night we played Klingon boggle until one in the morning.
+**Sheldon**: Tuesday night we played Klingon boggle until one in the morning.
 
-Leonard: Yes, I remember.
+**Leonard**: Yes, I remember.
 
-Sheldon: I resent you saying we don’t have company.
+**Sheldon**: I resent you saying we don’t have company.
 
-Leonard: I’m sorry.
+**Leonard**: I’m sorry.
 
-Sheldon: That is an antisocial implication.
+**Sheldon**: That is an antisocial implication.
 
-Leonard: I said I’m sorry.
+**Leonard**: *(Angrily)* I said I’m sorry.
 
-Penny: So, Klingon boggle?
+**Penny**: So, Klingon boggle?
 
-Leonard: Yeah, it’s like regular boggle but, in Klingon. That’s probably enough about us, tell us about you.
+**Leonard**: Yeah, it’s like regular boggle but, in Klingon. That’s probably enough about us, tell us about you.
 
-Penny: Um, me, okay, I’m Sagittarius, which probably tells you way more than you need to know.
+**Penny**: Um, me, okay, I’m Sagittarius, which probably tells you way more than you need to know.
 
-Sheldon: Yes, it tells us that you participate in the mass cultural delusion that the Sun’s apparent position relative to arbitrarily defined constellations and the time of your birth somehow effects your personality.
+**Sheldon**: Yes, it tells us that you participate in the mass cultural delusion that the Sun’s apparent position relative to arbitrarily defined constellations and the time of your birth somehow effects your personality.
 
-Penny: Participate in the what?
+**Penny**: Participate in the what?
 
-Leonard: I think what Sheldon’s trying to say, is that Sagittarius wouldn’t have been our first guess.
+**Leonard**: I think what Sheldon’s trying to say, is that Sagittarius wouldn’t have been our first guess.
 
-Penny: Oh, yeah, a lot of people think I’m a water sign. Okay, let’s see, what else, oh, I’m a vegetarian, oh, except for fish, and the occasional steak, I love steak.
+**Penny**: Oh, yeah, a lot of people think I’m a water sign. Okay, let’s see, what else, oh, I’m a vegetarian, oh, except for fish, and the occasional steak, I love steak.
 
-Sheldon: That’s interesting. Leonard can’t process corn.
+**Sheldon**: That’s interesting. Leonard can’t process corn.
 
-Leonard: Wu-uh, do you have some sort of a job?
+**Leonard**: Wu-uh, do you have some sort of a job?
 
-Penny: Oh, yeah, I’m a waitress at the Cheesecake Factory.
+**Penny**: Oh, yeah, I’m a waitress at the Cheesecake Factory.
 
-Leonard: Oh, okay. I love cheesecake.
+**Leonard**: Oh, okay. I love cheesecake.
 
-Sheldon: You’re lactose intolerant.
+**Sheldon**: You’re lactose intolerant.
 
-Leonard: I don’t eat it, I just think it’s a good idea.
+**Leonard**: I don’t eat it, I just think it’s a good idea.
 
-Penny: Oh, anyways, I’m also writing a screenplay. It’s about this sensitive girl who comes to L.A. from Lincoln Nebraska to be an actress, and winds up a waitress at the Cheesecake Factory.
+**Penny**: Oh, anyways, I’m also writing a screenplay. It’s about this sensitive girl who comes to L.A. from Lincoln Nebraska to be an actress, and winds up a waitress at the Cheesecake Factory.
 
-Leonard: So it’s based on your life?
+**Leonard**: So it’s based on your life?
 
-Penny: No, I’m from Omaha.
+**Penny**: No, I’m from Omaha.
 
-Leonard: Well, if that was a movie I would go see it.
+**Leonard**: Well, if that was a movie I would go see it.
 
-Penny: I know, right? Okay, let’s see, what else? Um, that’s about it. That’s the story of Penny.
+**Penny**: I know, right? Okay, let’s see, what else? Um, that’s about it. That’s the story of Penny.
 
-Leonard: Well it sounds wonderful.
+**Leonard**: Well it sounds wonderful.
 
-Penny: It was. Until I fell in love with a jerk.
+**Penny**: It was. Until I fell in love with a jerk. *(Crying)*
 
-Sheldon (mouths): What’s happening.
+**Sheldon**: *(mouths)* What’s happening?
 
-Leonard (mouths back): I don’t know.
+**Leonard**: *(mouths back)* I don’t know.
 
-Penny: Oh God, you know, four years I lived with him, four years, that’s like as long as High School.
+**Penny**: Oh God, you know, four years I lived with him, four years, that’s like as long as High School.
 
-Sheldon: It took you four years to get through High School?
+**Sheldon**: It took you four years to get through High School?
 
-Leonard: Don’t.
+**Leonard**: Don’t.
 
-Penny: I just, I can’t believe I trusted him.
+**Penny**: I just, I can’t believe I trusted him.
 
-Leonard: Should I say something? I feel like I should say something.
+**Leonard**: Should I say something? I feel like I should say something.
 
-Sheldon: You? No, you’ll only make it worse.
+**Sheldon**: You? No, you’ll only make it worse.
 
-Penny: You want to know the most pathetic part? Even though I hate his lying, cheating guts, I still love him. Is that crazy?
+**Penny**: You want to know the most pathetic part? Even though I hate his lying, cheating guts, I still love him. Is that crazy?
 
-Sheldon: Yes.
+**Sheldon**: Yes.
 
-Leonard: No, it’s not crazy it’s, uh, uh, it’s a paradox. And paradoxes are part of nature, think about light. Now if you look at Huygens, light is a wave, as confirmed by the double slit experiments, but then, along comes Albert Einstein and discovers that light behaves like particles too. Well, I didn’t make it worse.
+**Leonard**: No, it’s not crazy it’s, uh, uh, it’s a paradox. And paradoxes are part of nature, think about light. Now if you look at Huygens, light is a wave, as confirmed by the double slit experiments, but then, along comes Albert Einstein and discovers that light behaves like particles too. *(To **Sheldon**)* Well, I didn’t make it worse.
 
-Penny: Oh, I’m so sorry, I’m such a mess, and on top of everything else I’m all gross from moving and my stupid shower doesn’t even work.
+**Penny**: Oh, I’m so sorry, I’m such a mess, and on top of everything else I’m all gross from moving and my stupid shower doesn’t even work.
 
-Leonard: Our shower works.
+**Leonard**: Our shower works.
 
-Penny: Really? Would it be totally weird if I used it?
+**Penny**: Really? Would it be totally weird if I used it?
 
-Sheldon: Yes.
+**Sheldon**: Yes.
 
-Leonard: No.
+**Leonard**: No. *(At the same time as **Sheldon**)*
 
-Sheldon: No?
+**Sheldon**: *(To **Leonard**)* No?
 
-Leonard: No.
+**Leonard**: *(To **Sheldon**)* No.
 
-Sheldon: No.
+**Sheldon**: *(To **Penny**)* No.
 
-Leonard: It’s right down the hall.
+**Leonard**: It’s right down the hall.
 
-Penny: Thanks. You guys are really sweet.
+**Penny**: Thanks. You guys are really sweet.
 
-Sheldon: Well this is an interesting development.
+**Sheldon**: Well this is an interesting development.
 
-Leonard: How so?
+**Leonard**: How so?
 
 Sheldon: It has been some time since we’ve had a woman take her clothes off in our apartment.
 
@@ -496,7 +498,7 @@ Penny: It’s just not the kind of thing you ask a guy you’ve just met.
 
 Leonard: Wow.
 
-Scene: Leonard and Sheldon, Inside Leonard’s car
+## Scene: Leonard and Sheldon, Inside Leonard’s car
 
 Sheldon: I really think we should examine the chain of causality here.
 
@@ -582,7 +584,7 @@ Sheldon: What do you think their combined IQ is?
 
 Leonard: Just grab the door.
 
-Scene: Outside Penny’s ex-boyfriend’s apartment.
+## Scene: Outside Penny’s ex-boyfriend’s apartment.
 
 Leonard: This is it. (Knocks.) I’ll do the talking.
 
@@ -600,7 +602,7 @@ Leonard: Oh. We’re scientists.
 
 Sheldon: Tell him about our IQ.
 
-Scene: Outside the apartment building. Leonard and Sheldon exit. They are not wearing trousers.
+## Scene: Outside the apartment building. Leonard and Sheldon exit. They are not wearing trousers.
 
 Sheldon: Leonard.
 
@@ -612,7 +614,7 @@ Leonard: I’m sorry.
 
 Sheldon: You’re going to have to call her.
 
-Scene: On the stairs of Sheldon and Leonard’s building.
+## Scene: On the stairs of Sheldon and Leonard’s building.
 
 Leonard: Sheldon, I’m so sorry I dragged you through this.
 
@@ -630,7 +632,7 @@ Leonard: Thank you Sheldon, you’re a good friend.
 
 Sheldon: And you’re certainly not going to win a Nobel Prize.
 
-Scene: Inside Sheldon and Leonard’s apartment.
+## Scene: Inside Sheldon and Leonard’s apartment.
 
 Howard: This is one of my favourite places to kick back after a quest, they have a great house ale.
 
@@ -668,7 +670,7 @@ Leonard: Our babies will be smart and beautiful.
 
 Sheldon: Not to mention imaginary.
 
-Scene: All five in Leonard’s car.
+## Scene: All five in Leonard’s car.
 
 Leonard: Is Thai food okay with you Penny?
 
@@ -694,4 +696,6 @@ Howard (sings): Baby, baby don’t get hooked on me. Uh, baby, baby don’t get 
 
 Sheldon: I don’t know what your odds are in the world as a whole, but as far as the population of this car goes, you’re a veritable Mack Daddy.
 
-Written by Chuck Lorre and Bill Prady
+*(Written by Chuck Lorre and Bill Prady)*
+
+*[Sheldon Circle Cooper](https://github.com/SheldonCircleCooper/) created this Markdown file* 
