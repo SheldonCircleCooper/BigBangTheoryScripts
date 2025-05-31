@@ -510,202 +510,220 @@ Credits sequence. (Theme song: *The History of Everything* of Barenaked Ladies)
 
 ## Scene: Leonard and Sheldon, Inside Leonard’s car
 
-Sheldon: I really think we should examine the chain of causality here.
+**Sheldon**: I really think we should examine the chain of causality here.
 
-Leonard: Must we?
+**Leonard**: Must we?
 
-Sheldon: Event A. A beautiful woman stands naked in our shower. Event B. We drive half way across town to retrieve a television set from the aforementioned woman’s ex-boyfriend. Query, on what plane of existence is there even a semi-rational link between these events?
+**Sheldon**: Event A. A beautiful woman stands naked in our shower. Event B. We drive half way across town to retrieve a television set from the aforementioned woman’s ex-boyfriend. Query, on what plane of existence is there even a semi-rational link between these events?
 
-Leonard: She asked me to do her a favour, Sheldon.
+**Leonard**: She asked me to do her a favour, Sheldon.
 
-Sheldon: Ah, yes, well that may be the proximal cause of our journey, but we both know it only exists in contradistinction to the higher level distal cause.
+**Sheldon**: Ah, yes, well that may be the proximal cause of our journey, but we both know it only exists in contradistinction to the higher level distal cause.
 
-Leonard: Which is?
+**Leonard**: Which is?
 
-Sheldon: You think with your penis.
+**Sheldon**: You think with your penis.
 
-Leonard: That’s a biological impossibility and you didn’t have to come.
+**Leonard**: That’s a biological impossibility and you didn’t have to come.
 
-Sheldon: Oh, right, yes, I could have stayed behind and watched Wolowitz try to hit on Penny in Russian, Arabic and Farsi. Why can’t she get her own TV.
+**Sheldon**: Oh, right, yes, I could have stayed behind and watched Wolowitz try to hit on Penny in Russian, Arabic and Farsi. Why can’t she get her own TV.
 
-Leonard: Come on, you know how it is with break-ups.
+**Leonard**: Come on, you know how it is with break-ups.
 
-Sheldon: No I don’t. And neither do you.
+**Sheldon**: No I don’t. And neither do you.
 
-Leonard: Wuh, I, I broke up with Joyce Kim.
+**Leonard**: Wuh, I, I broke up with Joyce Kim.
 
-Sheldon: You did not break up with Joyce Kim, she defected to North Korea.
+**Sheldon**: You did not break up with Joyce Kim, she defected to North Korea.
 
-Leonard: To mend her broken heart. This situation is much less complicated. There’s some kind of dispute between Penny and her ex-boyfriend as to who gets custody of the TV. She just wanted to avoid having a scene with him.
+**Leonard**: To mend her broken heart. This situation is much less complicated. There’s some kind of dispute between Penny and her ex-boyfriend as to who gets custody of the TV. She just wanted to avoid having a scene with him.
 
-Sheldon: So we get to have a scene with him?
+**Sheldon**: So we get to have a scene with him?
 
-Leonard: No, Sheldon, there’s not going to be a scene. There’s two of us and one of him.
+**Leonard**: No, Sheldon, there’s not going to be a scene. There’s two of us and one of him.
 
-Sheldon: Leonard, the two of us can’t even carry a TV.
+**Sheldon**: Leonard, the two of us can’t even carry a TV.
 
-Scene: Back at the apartment.
+## Scene: Back at the apartment.
 
-Penny (to Raj): So, you guys work with Leonard and Sheldon at the University?
+**Penny**: *(to **Raj**)* So, you guys work with Leonard and Sheldon at the University?
 
-(Raj looks at her, looks back at his food, takes a mouthful).
+*(**Raj** looks at her, looks back at his food, takes a mouthful).*
 
-Penny: Uh, I’m sorry, do you speak English?
+**Penny**: Uh, I’m sorry, do you speak English?
 
-Howard: Oh, he speaks English, he just can’t speak to women.
+**Howard**: *(Walking from kitchen to living room, holding two juice boxes)* Oh, he speaks English, he just can’t speak to women.
 
-Penny: Really, why?
+**Penny**: Really, why?
 
-Howard: He’s kind of a nerd. Juice box?
+**Howard**: He’s kind of a nerd. Juice box?
 
-Scene: Outside Penny’s old apartment building.
+## Scene: Outside Penny’s old apartment building.
 
-Leonard (pushes buzzer): I’ll do the talking.
+**Leonard**: *(pushes buzzer)* I’ll do the talking.
 
-Voice from buzzer: Yeah.
+**Voice from buzzer**: Yeah.
 
-Leonard: Hi, I’m Leonard, this is Sheldon.
+**Leonard**: Hi, I’m Leonard, this is Sheldon.
 
-Sheldon: Hello.
+**Sheldon**: Hello.
 
-Leonard: What did I just…. Uh, we’re here to pick up Penny’s TV.
+**Leonard**: *(To **Sheldon**)* What did I just…. *(Back to intercom)* Uh, we’re here to pick up Penny’s TV.
 
-Voice: Get lost.
+**Voice**: Get lost.
 
-Sheldon: Okay, thanks for your time.
+**Sheldon**: Okay, thanks for your time.
 
-Leonard: We’re not going to give up just like that.
+**Leonard**: We’re not going to give up just like that.
 
-Sheldon: Leonard, the TV is in the building, we’ve been denied access to the building, ergo we are done.
+**Sheldon**: Leonard, the TV is in the building, we’ve been denied access to the building, ergo we are done.
 
-Leonard: Excuse me, if I were to give up at the first little hitch I never would have been able to identify the fingerprints of string theory in the aftermath of the big bang.
+**Leonard**: Excuse me, if I were to give up at the first little hitch I never would have been able to identify the fingerprints of string theory in the aftermath of the big bang.
 
-Sheldon: My apologies. What’s your plan.
+**Sheldon**: My apologies. What’s your plan?
 
-(Leonard starts rattling the doors violently.)
+*(**Leonard** starts rattling the doors violently.)*
 
-Sheldon: It’s just a privilege to watch your mind at work.
+**Sheldon**: It’s just a privilege to watch your mind at work.
 
-Leonard: Come on, we have a combined IQ of 360, we should be able to figure out how to get into a stupid building.
+**Leonard**: Come on, we have a combined IQ of 360, we should be able to figure out how to get into a stupid building.
 
-(Two girl scouts arrive carrying bags of cookies. One runs her hand down the intercom, pushing all the buttons. The door is buzzed open.)
+*(Two girl scouts arrive carrying bags of cookies. One runs her hand down the intercom, pushing all the buttons. The door is buzzed open. The two nerds staring at the opened door)*
 
-Sheldon: What do you think their combined IQ is?
+**Sheldon**: What do you think their combined IQ is?
 
-Leonard: Just grab the door.
+**Leonard**: Just grab the door! *(Two walking in the building)*
 
 ## Scene: Outside Penny’s ex-boyfriend’s apartment.
 
-Leonard: This is it. (Knocks.) I’ll do the talking.
+**Leonard**: This is it. (Knocks.) I’ll do the talking.
 
-Sheldon: Good thinking, I’ll just be the muscle.
+**Sheldon**: Good thinking, I’ll just be the muscle.
 
-Enormous man: Yeah?
+**Enormous man**: Yeah?
 
-Leonard: I’m Leonard, this is Sheldon.
+**Leonard**: I’m Leonard, this is Sheldon.
 
-Sheldon: From the intercom.
+**Sheldon**: From the intercom.
 
-Man: How the hell did you get in the building?
+**Man**: How the hell did you get in the building?
 
-Leonard: Oh. We’re scientists.
+**Leonard**: Oh. We’re scientists.
 
-Sheldon: Tell him about our IQ.
+**Sheldon**: Tell him about our IQ.
 
 ## Scene: Outside the apartment building. Leonard and Sheldon exit. They are not wearing trousers.
 
-Sheldon: Leonard.
+**Sheldon**: Leonard.
 
-Leonard: What?
+**Leonard**: What?
 
-Sheldon: My mom bought me those pants.
+**Sheldon**: My mom bought me those pants.
 
-Leonard: I’m sorry.
+**Leonard**: I’m sorry.
 
-Sheldon: You’re going to have to call her.
+**Sheldon**: You’re going to have to call her.
 
-## Scene: On the stairs of Sheldon and Leonard’s building.
+## Scene: On the stairs of Sheldon and Leonard’s building. Two nerds walking up.
 
-Leonard: Sheldon, I’m so sorry I dragged you through this.
+**Leonard**: Sheldon, I’m so sorry I dragged you through this.
 
-Sheldon: It’s okay. It wasn’t my first pantsing, and it won’t be my last.
+**Sheldon**: It’s okay. It wasn’t my first pantsing, and it won’t be my last.
 
-Leonard: And you were right about my motives, I was hoping to establish a relationship with Penny that might have some day led to sex.
+**Leonard**: And you were right about my motives, I was hoping to establish a relationship with Penny that might have some day led to sex.
 
-Sheldon: Well you got me out of my pants.
+**Sheldon**: Well you got me out of my pants.
 
-Leonard: Anyway, I’ve learned my lesson. She’s out of my league, I’m done with her, I’ve got my work, one day I’ll win the Nobel Prize and then I’ll die alone.
+**Leonard**: Anyway, I’ve learned my lesson. She’s out of my league, I’m done with her, I’ve got my work, one day I’ll win the Nobel Prize and then I’ll die alone.
 
-Sheldon: Don’t think like that, you’re not going to die alone.
+**Sheldon**: Don’t think like that, you’re not going to die alone.
 
-Leonard: Thank you Sheldon, you’re a good friend.
+**Leonard**: Thank you Sheldon, you’re a good friend.
 
-Sheldon: And you’re certainly not going to win a Nobel Prize.
+**Sheldon**: And you’re certainly not going to win a Nobel Prize.
 
 ## Scene: Inside Sheldon and Leonard’s apartment.
 
-Howard: This is one of my favourite places to kick back after a quest, they have a great house ale.
+*(**Howard** is showing **Penny** his avtar in a computer game)*
 
-Penny: Wow, cool tiger.
+**Howard**: This is one of my favourite places to kick back after a quest, they have a great house ale.
 
-Howard: Yeah, I’ve had him since level ten. His name is Buttons. Anyway, if you had your own game character we could hang out, maybe go on a quest.
+**Penny**: Wow, cool tiger.
 
-Penny: Uh, sounds interesting.
+**Howard**: Yeah, I’ve had him since level ten. His name is Buttons. Anyway, if you had your own game character we could hang out, maybe go on a quest.
 
-Howard: So you’ll think about it?
+**Penny**: Uh, sounds interesting.
 
-Penny: Oh, I don’t think I’ll be able to stop thinking about it.
+**Howard**: So you’ll think about it?
 
-Raj: Smooth.
+**Penny**: Oh, I don’t think I’ll be able to stop thinking about it.
 
-Leonard: We’re home.
+**Raj**: *(To **Howard**, in small voice)* Smooth.
 
-Penny: Oh, my God, what happened?
+*(The door opens. **Sheldon** and **Leonard** walking in)*
 
-Leonard: Well, your ex-boyfriend sends his regards and I think the rest is fairly self-explanatory.
+**Leonard**: We’re home.
 
-Penny: I’m so sorry, I really thought if you guys went instead of me he wouldn’t be such an ass.
+**Penny**: Oh, my God, what happened?
 
-Leonard: No, it was a valid hypothesis.
+**Leonard**: Well, your ex-boyfriend sends his regards and I think the rest is fairly self-explanatory.
 
-Sheldon: That was a valid hypothesis? What is happening to you?
+**Penny**: I’m so sorry, I really thought if you guys went instead of me he wouldn’t be such an ass.
 
-Penny: Really, thank you so much for going and trying you’re, uh, you’re so terrific. Why don’t you put some clothes on, I’ll get my purse and dinner is on me, okay?
+**Leonard**: No, it was a valid hypothesis.
 
-Leonard: Really? Great.
+**Sheldon**: That was a valid hypothesis? What is happening to you?
 
-Sheldon: Thank you. You’re not done with her, are you?
+**Penny**: Really, thank you so much for going and trying you’re, uh, you’re so terrific. Why don’t you put some clothes on, I’ll get my purse and dinner is on me, okay?
 
-Leonard: Our babies will be smart and beautiful.
+**Leonard**: Really? Great.
 
-Sheldon: Not to mention imaginary.
+*(**Penny** walks out of 4A and in 4B. **Leonard** stands in the door of 4A, staring at her back)*
+
+**Sheldon**: *(To **Penny**'s back)* Thank you. *(To **Leonard**)* You’re not done with her, are you?
+
+**Leonard**: *(Still staring, immersing)* Our babies will be smart and beautiful.
+
+**Sheldon**: Not to mention imaginary.
 
 ## Scene: All five in Leonard’s car.
 
-Leonard: Is Thai food okay with you Penny?
+**Leonard**: Is Thai food okay with you Penny?
 
-Penny: Sure.
+**Penny**: Sure.
 
-Sheldon: We can’t have Thai food, we had Indian for lunch.
+**Sheldon**: We can’t have Thai food, we had Indian for lunch.
 
-Penny: So?
+**Penny**: So?
 
-Sheldon: They’re both curry based cuisines.
+**Sheldon**: They’re both curry based cuisines.
 
-Penny: So?
+**Penny**: So?
 
-Sheldon: They would be gastronomically redundant. I can see we’re going to have to spell out everything for this girl.
+**Sheldon**: They would be gastronomically redundant. *(To **Leonard**)* I can see we’re going to have to spell out everything for this girl.
 
-Penny: Any ideas Raj? (He just looks at her with a worried expression.)
+**Penny**: Any ideas Raj? 
 
-Howard: Turn left on Lake Street and head up to Colorado. I know a wonderful little sushi bar that has karaoke.
+*(**Raj** just looks at her with a worried expression.)*
 
-Penny: That sounds like fun.
+**Howard**: Turn left on Lake Street and head up to Colorado. I know a wonderful little sushi bar that has karaoke.
 
-Howard (sings): Baby, baby don’t get hooked on me. Uh, baby, baby don’t get hooked on me.
+**Penny**: That sounds like fun.
 
-Sheldon: I don’t know what your odds are in the world as a whole, but as far as the population of this car goes, you’re a veritable Mack Daddy.
+**Howard**: *(sings)* Baby, baby don’t get hooked on me. Uh, baby, baby don’t get hooked on me. *(Note: This is [Baby Don't Get Hooked on Me](https://open.spotify.com/track/4z51Gf7Ppt9Lmu5zmnUIz9))*
+
+**Sheldon**: I don’t know what your odds are in the world as a whole, but as far as the population of this car goes, you’re a veritable Mack Daddy.
 
 *(Written by Chuck Lorre and Bill Prady)*
+
+Staring:
+
+|Character|Actor|
+|-------------|----------------|
+|Sheldon|Jim Parsons|
+|Leonard|Johny Galecki|
+|Penny|Kaley Cocuo|
+|Howard|Simon Helberg|
+|Raj|Kunal Nayyar|
 
 *[Sheldon Circle Cooper](https://github.com/SheldonCircleCooper/) created this Markdown file* 
