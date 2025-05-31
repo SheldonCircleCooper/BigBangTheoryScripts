@@ -206,13 +206,15 @@
 
 **Penny**: Oh, that’s so nice, I’d love to.
 
-**Leonard**: Great. *(Opening the door of 4A)*
+**Leonard**: Great. 
+
+*(**Leonard** Opening the door of 4A)*
 
 **Penny**: So, what do you guys do for fun around here?
 
-**Sheldon**: Well, today we tried masturbating for money.
+**Sheldon**: Well, today we tried masturbating for money. *(**Leonard** looks at **Sheldon** angrily)*
 
-Credits sequence.
+Credits sequence. (Theme song: *The History of Everything* of Barenaked Ladies)
 
 ## Scene: Sheldon and Leonard’s apartment.
 
@@ -302,7 +304,7 @@ Credits sequence.
 
 **Penny**: So, Klingon boggle?
 
-**Leonard**: Yeah, it’s like regular boggle but, in Klingon. That’s probably enough about us, tell us about you.
+**Leonard**: Yeah, it’s like regular boggle, but, in Klingon. That’s probably enough about us, tell us about you.
 
 **Penny**: Um, me, okay, I’m Sagittarius, which probably tells you way more than you need to know.
 
@@ -348,11 +350,13 @@ Credits sequence.
 
 **Sheldon**: It took you four years to get through High School?
 
-**Leonard**: Don’t.
+**Leonard**:*(To **Sheldon**)* Don’t.
 
-**Penny**: I just, I can’t believe I trusted him.
+**Penny**: I just, I can’t believe I trusted him. 
 
-**Leonard**: Should I say something? I feel like I should say something.
+*(**Penny** stands up and goes to the kitchen, **Sheldon** moves to his spot immediately)*
+
+**Leonard**: *(To **Sheldon**, whispering)* Should I say something? I feel like I should say something.
 
 **Sheldon**: You? No, you’ll only make it worse.
 
@@ -382,121 +386,127 @@ Credits sequence.
 
 **Penny**: Thanks. You guys are really sweet.
 
+*(**Penny** walks)*
+
 **Sheldon**: Well this is an interesting development.
 
 **Leonard**: How so?
 
-Sheldon: It has been some time since we’ve had a woman take her clothes off in our apartment.
+**Sheldon**: It has been some time since we’ve had a woman take her clothes off in our apartment.
 
-Leonard: That’s not true, remember at Thanksgiving my grandmother with Alzheimer’s had that episode.
+**Leonard**: That’s not true, remember at Thanksgiving my grandmother with Alzheimer’s had that episode.
 
-Sheldon: Point taken. It has been some time since we’ve had a woman take her clothes off after which we didn’t want to rip our eyes out.
+**Sheldon**: Point taken. It has been some time since we’ve had a woman take her clothes off after which we didn’t want to rip our eyes out.
 
-Leonard: The worst part was watching her carve that turkey.
+**Leonard**: The worst part was watching her carve that turkey.
 
-Sheldon: So, what exactly are you trying to accomplish here?
+**Sheldon**: So, what exactly are you trying to accomplish here?
 
-Leonard: Excuse me?
+**Leonard**: Excuse me?
 
-Sheldon: That woman in there’s not going to have sex with you.
+**Sheldon**: That woman in there’s not going to have sex with you.
 
-Leonard: Well I’m not trying to have sex with her.
+**Leonard**: Well I’m not trying to have sex with her.
 
-Sheldon: Oh, good. Then you won’t be disappointed.
+**Sheldon**: Oh, good. Then you won’t be disappointed.
 
-Leonard: What makes you think she wouldn’t have sex with me, I’m a male and she’s a female?
+**Leonard**: What makes you think she wouldn’t have sex with me, I’m a male and she’s a female?
 
-Sheldon: Yes, but not of the same species.
+**Sheldon**: Yes, but not of the same species.
 
-Leonard: I’m not going to engage in hypotheticals here, I’m just trying to be a good neighbour.
+**Leonard**: I’m not going to engage in hypotheticals here, I’m just trying to be a good neighbour.
 
-Sheldon: Oh, of course.
+**Sheldon**: Oh, of course.
 
-Leonard: That’s not to say that if a carnal relationship were to develop that I wouldn’t participate. However briefly.
+**Leonard**: That’s not to say that if a carnal relationship were to develop that I wouldn’t participate. However briefly.
 
-Sheldon: Do you think this possibility will be helped or hindered when she discovers your Luke Skywalker no-more-tears shampoo?
+**Sheldon**: Do you think this possibility will be helped or hindered when she discovers your Luke Skywalker no-more-tears shampoo?
 
-Leonard: It’s Darth Vader shampoo. (There is a knock on the door.) Luke Skywalker’s the conditioner.
+**Leonard**: It’s Darth Vader shampoo. *(There is a knock on the door.)* Luke Skywalker’s the conditioner. 
 
-Howard: Wait till you see this.
+*(**Leonard** opens the door. **Howard** and **Raj** step in, with a CD on **Howard**'s hand)*
 
-Raj: It’s fantastic. Unbelievable.
+**Howard**: Wait till you see this.
 
-Leonard: See what?
+**Raj**: It’s fantastic. Unbelievable.
 
-Howard: It’s a Stephen Hawking lecture from MIT in 1974.
+**Leonard**: See what?
 
-Leonard: This is not a good time.
+**Howard**: It’s a Stephen Hawking lecture from MIT in 1974.
 
-Howard: It’s before he became a creepy computer voice:.
+**Leonard**: This is not a good time.
 
-Leonard: That’s great, you guys have to go.
+**Howard**: *(Mimicing Hawking)* It’s before he became a creepy computer voice:.
 
-Raj: Why?
+**Leonard**: That’s great, you guys have to go.
 
-Leonard: It’s just not a good time.
+**Raj**: Why?
 
-Sheldon: Leonard has a lady over.
+**Leonard**: It’s just not a good time.
 
-Howard: Yeah, right, your grandmother back in town?
+**Sheldon**: Leonard has a lady over.
 
-Leonard: No. And she’s not a lady, she’s just a new neighbour.
+**Howard**: Yeah, right, your grandmother back in town?
 
-Howard: Hang on, there really is a lady here?
+**Leonard**: No. And she’s not a lady, she’s just a new neighbour.
 
-Leonard: Uh-huh.
+**Howard**: Hang on, there really is a lady here?
 
-Howard: And you want us out because you’re anticipating coitus?
+**Leonard**: Uh-huh.
 
-Leonard: I’m not anticipating coitus.
+**Howard**: And you want us out because you’re anticipating coitus?
 
-Howard: So she’s available for coitus?
+**Leonard**: I’m not anticipating coitus.
 
-Leonard: Can we please stop saying coitus?
+**Howard**: So she’s available for coitus?
 
-Sheldon: Technically that would be coitus interruptus.
+**Leonard**: Can we please stop saying coitus?
 
-Penny: Hey, is there a trick to getting it to switch from tub to shower. Oh. Hi, sorry. Hello!
+**Sheldon**: Technically that would be coitus interruptus.
 
-Howard: Enchante Madamoiselle. Howard Wolowitz, Cal-Tech department of Applied Physics. You may be familiar with some of my work, it’s currently orbiting Jupiter’s largest moon taking high-resolution digital photographs.
+*(**Penny** wrapping a bath towel walks in the living room)*
 
-Penny: Penny. I work at the Cheesecake Factory.
+**Penny**:*(To **Leonard**)* Hey, is there a trick to getting it to switch from tub to shower. *(To everyone)* Oh. Hi, sorry. Hello!
 
-Leonard: Come on, I’ll show you the trick with the shower.
+**Howard**: Enchante Madamoiselle. *(Franch, "nice to meet you, Madam")* Howard Wolowitz, Cal-Tech department of Applied Physics. You may be familiar with some of my work, it’s currently orbiting Jupiter’s largest moon taking high-resolution digital photographs.
 
-Howard: Bon douche.
+**Penny**: Penny. I work at the Cheesecake Factory.
 
-Penny: I’m sorry?
+**Leonard**: Come on, I’ll show you the trick with the shower.
 
-Howard: It’s French for good shower. It’s a sentiment I can express in six languages.
+**Howard**: Bon douche.
 
-Leonard: Save it for your blog, Howard.
+**Penny**: I’m sorry?
 
-Howard: See-ka-tong-guay-jow.
+**Howard**: It’s French for good shower. It’s a sentiment I can express in six languages.
 
-Scene: In the bathroom.
+**Leonard**: Save it for your blog, Howard.
 
-Leonard: Uh, there it goes, it sticks, I’m sorry.
+**Howard**: See-ka-tong-guay-jow.*(Chinese, 洗个痛快澡, "good shower")*
 
-Penny: Okay. Thanks.
+## Scene: In the bathroom.
 
-Leonard: You’re welcome, oh, you’re going to step right, okay, I’ll….
+**Leonard**: Uh, there it goes, it sticks, I’m sorry.
 
-Penny: Hey, Leonard?
+**Penny**: Okay. Thanks.
 
-Leonard: The hair products are Sheldon’s.
+**Leonard**: You’re welcome, oh, you’re going to step right, okay, I’ll….
 
-Penny: Um, okay. Can I ask you a favour.
+**Penny**: Hey, Leonard?
 
-Leonard: A favour? Sure, you can ask me a favour, I would do you a favour for you.
+**Leonard**: The hair products are Sheldon’s.
 
-Penny: It’s okay if you say no.
+**Penny**: Um, okay. Can I ask you a favour?
 
-Leonard: Oh, I’ll probably say yes.
+**Leonard**: A favour? Sure, you can ask me a favour, I would do you a favour for you.
 
-Penny: It’s just not the kind of thing you ask a guy you’ve just met.
+**Penny**: It’s okay if you say no.
 
-Leonard: Wow.
+**Leonard**: Oh, I’ll probably say yes.
+
+**Penny**: It’s just not the kind of thing you ask a guy you’ve just met.
+
+**Leonard**: Wow.
 
 ## Scene: Leonard and Sheldon, Inside Leonard’s car
 
