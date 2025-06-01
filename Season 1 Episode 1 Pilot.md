@@ -214,7 +214,7 @@
 
 **Sheldon**: Well, today we tried masturbating for money. *(**Leonard** looks at **Sheldon** angrily)*
 
-Credits sequence. (Theme song: *The History of Everything* of Barenaked Ladies)
+**Credits sequence. (Theme song: *The History of Everything* of Barenaked Ladies)**
 
 ## Scene: Sheldon and Leonard’s apartment.
 
@@ -232,8 +232,7 @@ Credits sequence. (Theme song: *The History of Everything* of Barenaked Ladies)
 
 **Sheldon**: Yeah, well, it’s just some quantum mechanics, with a little string theory doodling around the edges. That part there, that’s just a joke, it’s a spoof of the Bourne-Oppenheimer approximation.
 
-**Penny**: So you’re like, one of those, beautiful mind genius guys.
-
+**Penny**: So you’re like, one of those, *Beautiful Mind* genius guys?
 **Sheldon**: Yeah.
 
 **Penny**: This is really impressive.
@@ -352,7 +351,7 @@ Credits sequence. (Theme song: *The History of Everything* of Barenaked Ladies)
 
 **Leonard**:*(To **Sheldon**)* Don’t.
 
-**Penny**: I just, I can’t believe I trusted him. 
+**Penny**: I just, I can’t believe I trusted him! 
 
 *(**Penny** stands up and goes to the kitchen, **Sheldon** moves to his spot immediately)*
 
@@ -386,7 +385,7 @@ Credits sequence. (Theme song: *The History of Everything* of Barenaked Ladies)
 
 **Penny**: Thanks. You guys are really sweet.
 
-*(**Penny** walks)*
+*(**Penny** walks into the bathroom)*
 
 **Sheldon**: Well this is an interesting development.
 
