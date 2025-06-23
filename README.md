@@ -4,7 +4,7 @@ This is where the story began.
 This season includes 17 episode, here are the list: 
 
 1. [Pilot](https://github.com/SheldonCircleCooper/BigBangTheoryScripts/blob/Season-1/Season%201%20Episode%201%20Pilot.md)
-2. The Big Bran Hypothesis
+2. [The Big Bran Hypothesis](https://github.com/SheldonCircleCooper/BigBangTheoryScripts/blob/Season-1/Season%201%20Episode%202%20The%20Big%20Bran%20Hypothesis.md)
 3. The Fuzzy Boots Corollary
 4. The Luminous Fish Effect
 5. 	The Hamburger Postulate
