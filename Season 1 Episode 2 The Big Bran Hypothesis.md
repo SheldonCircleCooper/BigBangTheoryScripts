@@ -1,384 +1,385 @@
-Scene: Sheldon and Leonard’s apartment. Sheldon, Leonard, Howard and Raj are present.
+# The Big Bran Hypothesis
+## Scene: *Sheldon* and *Leonard*’s apartment. *Sheldon*, *Leonard*, *Howard* and *Raj* are present.
 
-Leonard: There you go, Pad Thai, no peanuts.
+**Leonard**:*(Handing food to **Howard**)* There you go, Pad Thai, no peanuts.
 
-Howard: But does it have peanut oil?
+**Howard**: But does it have peanut oil?
 
-Leonard: Uh, I’m not sure, everyone keep an eye on Howard in case he starts to swell up.
+**Leonard**: Uh, I’m not sure, everyone keep an eye on Howard in case he starts to swell up.
 
-Sheldon: Since it’s not bee season, you can have my epinephrine.
+**Sheldon**: Since it’s not bee season, you can have my epinephrine.
 
-Raj: Are there any chopsticks?
+**Raj**: Are there any chopsticks?
 
-Sheldon: You don’t need chopsticks, this is Thai food.
+**Sheldon**: You don’t need chopsticks, this is Thai food.
 
-Leonard: Here we go.
+**Leonard**: Here we go.
 
-Sheldon: Thailand has had the fork since the latter half of the nineteenth century. Interestingly they don’t actually put the fork in their mouth, they use it to put the food on a spoon which then goes into their mouth.
+**Sheldon**: Thailand has had the fork since the latter half of the nineteenth century. Interestingly they don’t actually put the fork in their mouth, they use it to put the food on a spoon which then goes into their mouth.
 
-Leonard: Ask him for a napkin, I dare you. (There is a knock on the door.) I’ll get it.
+**Leonard**: Ask him for a napkin, I dare you. *(There is a knock on the door.)* I’ll get it.
 
-Howard: Do I look puffy? I feel puffy.
+**Howard**: Do I look puffy? I feel puffy.
 
-(Leonard opens door to Penny, steps into hallway)
+*(**Leonard** opens door to **Penny**, steps into hallway)*
 
-Penny: Hey Leonard.
+**Penny**: Hey Leonard.
 
-Leonard: Oh, hi Penny.
+**Leonard**: Oh, hi Penny.
 
-Penny: Am I interrupting.
+**Penny**: Am I interrupting?
 
-Leonard: No.
+**Leonard**: No.
 
-Sheldon (off): You’re not swelling, Howard.
+**Sheldon** *(off)*: You’re not swelling, Howard.
 
-Howard (off): No, no, look at my fingers, they’re like Vienna sausages.
+**Howard** *(off)*: No, no, look at my fingers, they’re like Vienna sausages.
 
-Penny: Sounds like you have company.
+**Penny**: Sounds like you have company.
 
-Leonard: They’re not going anywhere. (Closes door, staying in hallway.) So, you’re coming home from work. That’s great. How was work.
+**Leonard**: They’re not going anywhere. *(Closes door, staying in hallway.)* So, you’re coming home from work. That’s great. How was work?
 
-Penny: Well, you know, it’s the Cheesecake Factory. People order cheesecake, and I bring it to them.
+**Penny**: Well, you know, it’s the Cheesecake Factory. People order cheesecake, and I bring it to them.
 
-Leonard: So, you sort of act as a carbohydrate delivery system.
+**Leonard**: So, you sort of act as a carbohydrate delivery system.
 
-Penny: Yeah, call it whatever you want, I get minimum wage. Yeah, anyways, I was wondering if you could help me out with something, I was….
+**Penny**: Yeah, call it whatever you want, I get minimum wage. Yeah, anyways, I was wondering if you could help me out with something, I was….
 
-Leonard: Yes.
+**Leonard**: Yes.
 
-Penny: Oh. Okay, great, I’m having some furniture delivered tomorrow, and I may not be here, so…. (apartment door opens, Sheldon, Raj and Howard appear) Oh! Hel…hello!
+**Penny**: Oh. Okay, great, I’m having some furniture delivered tomorrow, and I may not be here, so… *(apartment door opens, **Sheldon**, **Raj** and **Howard** appear)* Oh! Hel…hello!
 
-Howard: (speaks a phrase in Russian).
+**Howard**: *(speaks a phrase in Russian)*.
 
-Penny: I’m sorry?
+**Penny**: I’m sorry?
 
-Howard: Haven’t you ever been told how beautiful you are in flawless Russian?
+**Howard**: Haven’t you ever been told how beautiful you are in flawless Russian?
 
-Penny: No, I haven’t.
+**Penny**: No, I haven’t.
 
-Howard: Get used to it.
+**Howard**: Get used to it.
 
-Penny: Yeah, I probably won’t, but… Hey Sheldon.
+**Penny**: Yeah, I probably won’t, but… Hey Sheldon.
 
-Sheldon: Hi.
+**Sheldon**: Hi.
 
-Penny: Hey Raj! (Raj looks uncomfortable) Still not talking to me, huh?
+**Penny**: Hey Raj! *(**Raj** looks uncomfortable)* Still not talking to me, huh?
 
-Sheldon: Don’t take it personally, it’s his pathology, he can’t talk to women.
+**Sheldon**: Don’t take it personally, it’s his pathology, he can’t talk to women.
 
-Howard: He can’t talk to attractive women, or in your case a cheesecake–scented Goddess!
+**Howard**: He can’t talk to attractive women, or in your case a cheesecake–scented Goddess!
 
-Leonard: So, there’s gonna be some furniture delivered?
+**Leonard**: So, there’s gonna be some furniture delivered?
 
-Penny: Yeah, yeah, if it gets here and I’m not here tomorrow could you just sign for it and have them put it in my apartment.
+**Penny**: Yeah, yeah, if it gets here and I’m not here tomorrow could you just sign for it and have them put it in my apartment.
 
-Leonard: Yeah, no problem.
+**Leonard**: Yeah, no problem.
 
-Penny: Great, here’s my spare key. Thank you.
+**Penny**: Great, here’s my spare key. Thank you.
 
-Leonard: Penny, wait.
+**Leonard**: Penny, wait.
 
-Penny: Yeah?
+**Penny**: Yeah?
 
-Leonard: Um, if you don’t have any other plans, do you want to join us for Thai food and a Superman movie marathon?
+**Leonard**: Um, if you don’t have any other plans, do you want to join us for Thai food and a Superman movie marathon?
 
-Penny: A marathon? Wow, how many Superman movies are there?
+**Penny**: A marathon? Wow, how many Superman movies are there?
 
-Sheldon: You’re kidding, right?
+**Sheldon** *(A step closer to **Penny**)*: You’re kidding, right?
 
-Penny: Yeah, I do like the one where Lois Lane falls from the helicopter and Superman swooshes down and catches her, which one was that?
+**Penny**: Yeah, I do like the one where Lois Lane falls from the helicopter and Superman swooshes down and catches her, which one was that?
 
-Leonard,Sheldon and Howard together: One. (Raj raises one finger).
+**Leonard**, **Sheldon** and **Howard** together: One. *(**Raj** raises one finger)*.
 
-Sheldon: You realise that scene was rife with scientific inaccuracy.
+**Sheldon*: You realise that scene was rife with scientific inaccuracy.
 
-Penny: Yes, I know, men can’t fly.
+**Penny**: Yes, I know, men can’t fly.
 
-Sheldon: Oh no, let’s assume that they can. Lois Lane is falling, accelerating at an initial rate of 32 feet per second per second. Superman swoops down to save her by reaching out two arms of steel. Miss Lane, who is now travelling at approximately 120 miles per hour, hits them, and is immediately sliced into three equal pieces.
+**Sheldon**: Oh no, let’s assume that they can. Lois Lane is falling, accelerating at an initial rate of 32 feet per second per second. Superman swoops down to save her by reaching out two arms of steel. Miss Lane, who is now travelling at approximately 120 miles per hour, hits them, and is immediately sliced into three equal pieces.
 
-Leonard: Unless, Superman matches her speed and decelerates.
+**Leonard**: Unless, Superman matches her speed and decelerates.
 
-Sheldon: In what space, sir, in what space? She’s two feet above the ground. Frankly, if he really loved her, he’d let her hit the pavement. It would be a more merciful death.
+**Sheldon**: In what space, sir, in what space? She’s two feet above the ground. Frankly, if he really loved her, he’d let her hit the pavement. It would be a more merciful death.
 
-Leonard: Excuse me, your entire argument is predicated on the assumption that Superman’s flight is a feat of strength.
+**Leonard**: Excuse me, your entire argument is predicated on the assumption that Superman’s flight is a feat of strength.
 
-Sheldon: Are you listening to yourself, it is well established that Superman’s flight is a feat of strength, it is an extension of his ability to leap tall buildings, an ability he derives from Earth’s yellow Sun.
+**Sheldon**: Are you listening to yourself? It is well established that Superman’s flight is a feat of strength, it is an extension of his ability to leap tall buildings, an ability he derives from Earth’s yellow Sun.
 
-Howard: Yeah, and you don’t have a problem with that, how does he fly at night.
+**Howard**: Yeah, and you don’t have a problem with that, how does he fly at night.?
 
-Sheldon: Uh, a combination of the moon’s solar reflection and the energy storage capacity of Kryptonian skin cells.
+**Sheldon**: Uh, a combination of the moon’s solar reflection and the energy storage capacity of Kryptonian skin cells.
 
-Penny: I’m just going to go wash up.
+**Penny**: I’m just going to go wash up.
 
-Leonard: I have 26 hundred comic books in there, I challenge you to find a single reference to Kryptonian skin cells.
+**Leonard**: I have 26 hundred comic books in there, I challenge you to find a single reference to Kryptonian skin cells.
 
-Sheldon: Challenge accepted. (Tries door.) We’re locked out.
+**Sheldon**: Challenge accepted. *(Tries door, then looks **Leonard** in annoyed face)* We’re locked out.
 
-Raj: Also, the pretty girl left.
+**Raj**: Also, the pretty girl left.
 
-Credit sequence.
+**Credit sequence.(Theme song: *The History of Everything* of Barenaked Ladies)**
 
-Scene: Ground floor hallway of the apartment building. Leonard is signing for the delivery.
+## Scene: Ground floor hallway of the apartment building. *Leonard* is signing for the delivery.
 
-Leonard: Okay, her apartment’s on the fourth floor but the elevator’s broken so you’re going to have to (delivery man leaves) oh, you’re just going to be done, okay, cool, thanks. I guess we’ll just bring it up ourselves.
+**Leonard**: Okay, her apartment’s on the fourth floor but the elevator’s broken so you’re going to have to... *(delivery man leaves)* oh, you’re just going to be done, okay, cool, thanks. I guess we’ll just bring it up ourselves.
 
-Sheldon: I hardly think so.
+**Sheldon**: I hardly think so.
 
-Leonard: Why not?
+**Leonard**: Why not?
 
-Sheldon: Well, we don’t have a dolly, or lifting belts, or any measurable upper body strength.
+**Sheldon**: Well, we don’t have a dolly, or lifting belts, or any measurable upper body strength.
 
-Leonard: We don’t need strength, we’re physicists. We are the intellectual descendents of Archimedes. Give me a fulcrum and a lever and I can move the Earth, it’s just a matter… (starts to move package) I don’t have this… I don’t have this I don’t have this.
+**Leonard**: We don’t need strength, we’re physicists. We are the intellectual descendents of Archimedes. Give me a fulcrum and a lever and I can move the Earth, it’s just a matter… *(starts to move package)* I don’t have this… I don’t have this I don’t have this.
 
-Sheldon: Archimedes would be so proud.
+**Sheldon**: Archimedes would be so proud.
 
-Leonard: Do you have any ideas?
+**Leonard**: Do you have any ideas?
 
-Sheldon: Yes, but they all involve a green lantern and a power ring.
+**Sheldon**: Yes, but they all involve a green lantern and a power ring.
 
-Time shift, Leonard and Sheldon are now lowering the package onto the bottom of the stairs.
+*(Time shift, **Leonard** and **Sheldon** are now lowering the package onto the bottom of the stairs.)*
 
-Leonard: Easy, easy (package falls) Okay! Now we’ve got an inclined plane. The force required to lift is reduced by the sine of the angle of the stairs, call it thirty degrees, so about half.
+**Leonard**: Easy, easy *(package falls)* Okay! Now we’ve got an inclined plane. The force required to lift is reduced by the sine of the angle of the stairs, call it thirty degrees, so about half.
 
-Sheldon: Exactly half.
+**Sheldon**: Exactly half.
 
-Leonard (snarkily): Exactly half. Let’s push. Okay, see, it’s moving, this is easy, all in the math.
+**Leonard** *(snarkily)*: Exactly half. Let’s push. Okay, see, it’s moving, this is easy, all in the math.
 
-Sheldon: What’s your formula for the corner.
+**Sheldon**: What’s your formula for the corner?
 
-Leonard: What? Oh, okay, uh, okay, yeah, no problem, just come up here and help me pull and turn.
+**Leonard**: What? Oh, okay, uh, okay, yeah, no problem, just come up here and help me pull and turn.
 
-(Sheldon heads up the stairs. The package slides back down to the bottom.)
+*(**Sheldon** heads up the stairs. The package slides back down to the bottom.)*
 
-Sheldon: Ah, gravity, thou art a heartless bitch.
+**Sheldon**: Ah, gravity, thou art a heartless bitch.
 
-Time shift, they now have the package on an upstairs hallway, not their own.
+*Time shift, they now have the package on an upstairs hallway, not their own.*
 
-Sheldon: You do understand that our efforts here will in no way increase the odds of you having sexual congress with this woman?
+**Sheldon**: You do understand that our efforts here will in no way increase the odds of you having sexual congress with this woman?
 
-Leonard: Men do things for women without expecting sex.
+**Leonard**: Men do things for women without expecting sex.
 
-Sheldon: Yeah, those are men who just had sex.
+**Sheldon**: Yeah, those are men who just had sex.
 
-Leonard: I’m doing this to be a good neighbour. In any case, there’s no way it could lower the odds.
+**Leonard**: I’m doing this to be a good neighbour. In any case, there’s no way it could lower the odds.
 
-Quick cut to the hallway of their floor, they are nearing the top of the staircase.
+*Quick cut to the hallway of their floor, they are nearing the top of the staircase.*
 
-Leonard: Almost there, almost there, almost there. (Lets go of package, it starts to slip down)
+**Leonard**: Almost there, almost there, almost there. *(Lets go of package, it starts to slip down)*
 
-Sheldon: No we’re not, no we’re not, no we’re not.
+**Sheldon**: No we’re not, no we’re not, no we’re not.
 
-Scene: Inside Penny’s apartment. They are laying the package down on the floor.
+## Scene: Inside Penny’s apartment. They are laying the package down on the floor.
 
-Sheldon: Watch your fingers. Watch your fingers. Oh God, my fingers!
+**Sheldon**: Watch your fingers. Watch your fingers. Oh God, my fingers!
 
-Leonard: You okay?
+**Leonard**: You okay?
 
-Sheldon: No, it hurt… (looking around) Great Caesar’s Ghost, look at this place?
+**Sheldon**: No, it hurt… *(looking around)* Great Caesar’s Ghost, look at this place?
 
-Leonard: So Penny’s a little messy.
+**Leonard**: So Penny’s a little messy.
 
-Sheldon: A little messy? The Mandelbrot set of complex numbers is a little messy, this is chaos. Excuse me, explain to me an organisational system where a tray of flatware on a couch is valid. I’m just inferring that this is a couch, because the evidence suggests the coffee table’s having a tiny garage sale.
+**Sheldon**: A little messy? The Mandelbrot set of complex numbers is a little messy, this is chaos. Excuse me, explain to me an organisational system where a tray of flatware on a couch is valid. I’m just inferring that this is a couch, because the evidence suggests the coffee table’s having a tiny garage sale.
 
-Leonard: Did it ever occur to you that not everyone has the compulsive need to sort, organise and label the entire world around them?
+**Leonard**: Did it ever occur to you that not everyone has the compulsive need to sort, organise and label the entire world around them?
 
-Sheldon: No.
+**Sheldon**: No.
 
-Leonard: Well they don’t. Hard as it may be for you to believe, most people don’t sort their breakfast cereal numerically by fibre content.
+**Leonard**: Well they don’t. Hard as it may be for you to believe, most people don’t sort their breakfast cereal numerically by fibre content.
 
-Sheldon: Excuse me, but I think we’ve both found that helpful at times.
+**Sheldon**: Excuse me, but I think we’ve both found that helpful at times.
 
-Leonard: Come on, we should go.
+**Leonard**: Come on, we should go.
 
-Sheldon: Hang on.
+**Sheldon**: Hang on.
 
-Leonard: What are you doing?
+**Leonard**: What are you doing?
 
-Sheldon: Straightening up.
+**Sheldon**: Straightening up.
 
-Leonard: Sheldon, this is not your home.
+**Leonard**: Sheldon, this is not your home.
 
-Sheldon: This is not anyone’s home, this is a swirling vortex of entropy.
+**Sheldon**: This is not anyone’s home, this is a swirling vortex of entropy.
 
-Leonard: When the transvestite lived here, you didn’t care how he kept the place.
+**Leonard**: When the transvestite lived here, you didn’t care how he kept the place.
 
-Sheldon: Because it was immaculate, I mean, you open that man’s closet, it was left to right, evening gowns, cocktail dresses, then his police uniforms.
+**Sheldon**: Because it was immaculate, I mean, you open that man’s closet, it was left to right, evening gowns, cocktail dresses, then his police uniforms.
 
-Leonard: What were you doing in his closet?
+**Leonard**: What were you doing in his closet?
 
-Sheldon: I helped run some cable for a webcam.
+**Sheldon**: I helped run some cable for a webcam.
 
-Penny (entering): Hey guys.
+**Penny** *(entering)*: Hey guys.
 
-Leonard: Oh, hey Penny, this just arrived, we just brought this up, just now.
+**Leonard**: Oh, hey Penny, this just arrived, we just brought this up, just now.
 
-Penny: Great. Was it hard getting it up the stairs?
+**Penny**: Great. Was it hard getting it up the stairs?
 
-Sheldon: (sucks in breath)
+**Sheldon**: *(sucks in breath)*
 
-Leonard: No.
+**Leonard**: No.
 
-Sheldon: No?
+**Sheldon**: *(To **Leonard**)* No?
 
-Leonard: No.
+**Leonard**: *(To **Sheldon**)* No.
 
-Sheldon: No.
+**Sheldon**: *(To **Penny**)* No.
 
-Leonard: Well, we’ll get out of your hair.
+**Leonard**: Well, we’ll get out of your hair.
 
-Penny: Oh, great, thank you again (she throws her jacket over the back of the sofa).
+**Penny**: Oh, great, thank you again *(she throws her jacket over the back of the sofa)*.
 
-Sheldon: Penny, I just want you to know that, you don’t have to live like this. I’m here for you.
+**Sheldon**: Penny, I just want you to know that, you don’t have to live like this. I’m here for you.
 
-Penny: What’s he talking about?
+**Penny**: What’s he talking about?
 
-Leonard: It’s a joke.
+**Leonard**: It’s a joke.
 
-Penny: I don’t get it.
+**Penny**: I don’t get it.
 
-Leonard: Yeah, he didn’t tell it right.
+**Leonard**: Yeah, he didn’t tell it right. *(Drag **Sheldon** out of **Penny**'s apartment)*
 
-Scene: Leonard’s bedroom, he is asleep. Sound of door opening and closing somewhere else is heard. Leonard wakes, puts on his glasses and looks at the clock. It is 2:16.
+## Scene: Leonard’s bedroom, he is asleep. Sound of door opening and closing somewhere else is heard. Leonard wakes, puts on his glasses and looks at the clock. It is 2:16.
 
-Leonard: Sheldon?
+**Leonard**: Sheldon?
 
-Scene: The living room. Leonard enters carrying a light sabre.
+## Scene: The living room. Leonard enters carrying a light sabre.
 
-Leonard: Sheldon? Hello?
+**Leonard**: Sheldon? Hello?
 
-(Notices front door is open, turns off light sabre.)
+*(Notices front door is open, turns off light sabre.)*
 
-Scene: Penny’s apartment, penny is sleeping, Sheldon is cleaning. Leonard enters.
+## Scene: Penny’s apartment, penny is sleeping, Sheldon is cleaning. Leonard enters.
 
-Leonard: Sheldon!
+**Leonard**: Sheldon!
 
-Sheldon: Sssshhhh! Penny’s sleeping.
+**Sheldon**: Sssshhhh! Penny’s sleeping!
 
-Leonard: Are you insane, you can’t just break into a woman’s apartment in the middle of the night and clean.
+**Leonard**: Are you insane? you can’t just break into a woman’s apartment in the middle of the night and clean.
 
-Sheldon: I had no choice. I couldn’t sleep knowing that just outside my bedroom was our living room, and just outside our living room was that hallway, and immediately adjacent to that hallway was… this.
+**Sheldon**: I had no choice. I couldn’t sleep knowing that just outside my bedroom was our living room, and just outside our living room was that hallway, and immediately adjacent to that hallway was… this.
 
-Leonard: Do you realise that if Penny wakes up, there is no reasonable explanation as to why we’re here?
+**Leonard**: Do you realise that if Penny wakes up, there is no reasonable explanation as to why we’re here?
 
-Sheldon: I just gave you a reasonable explanation.
+**Sheldon**: I just gave you a reasonable explanation.
 
-Leonard: No, no. You gave me an explanation, it’s reasonableness will be determined by a jury of your peers.
+**Leonard**: No, no. You gave me an explanation, it’s reasonableness will be determined by a jury of your peers.
 
-Sheldon: Don’t be ridiculous. I have no peers.
+**Sheldon**: Don’t be ridiculous. I have no peers.
 
-Leonard: Sheldon, we have to get out of here.
+**Leonard**: Sheldon, we have to get out of here.
 
-(Penny snores)
+*(**Penny** snores)*
 
-Sheldon: You might want to speak in a lower register.
+**Sheldon**: You might want to speak in a lower register.
 
-Leonard: What?
+**Leonard**: What?
 
-Sheldon: Evolution has made women sensitive to high pitched noises while they sleep, so that they’ll be roused by a crying baby. If you want to avoid waking her, speak in a lower register.
+**Sheldon**: Evolution has made women sensitive to high pitched noises while they sleep, so that they’ll be roused by a crying baby. If you want to avoid waking her, speak in a lower register.
 
-Leonard: That’s ridiculous. (Penny snores again.)
+**Leonard**: That’s ridiculous. *(**Penny** snores again.)*
 
-Sheldon: No, (lowering his voice dramatically,) that’s ridiculous.
+**Sheldon**: No, *(lowering his voice dramatically,)* that’s ridiculous.
 
-Leonard (doing likewise): Fine. I accept your premise, now please let’s go.
+**Leonard** *(doing likewise)*: Fine. I accept your premise, now please let’s go.
 
-Sheldon: I am not leaving until I’m done.
+**Sheldon**: I am not leaving until I’m done.
 
-Leonard: O-o-o-oh! (Collapses against wall).
+**Leonard**: O-o-o-oh! *(Collapses against wall)*.
 
-Sheldon: If you have time to lean, you have time to clean.
+**Sheldon**: If you have time to lean, you have time to clean.
 
-Leonard: Oh, what the hell.
+**Leonard**: Oh, what the hell.
 
-Scene: Sheldon and Leonard’s living room, morning. Sheldon enters, singing to himself.
+## Scene: Sheldon and Leonard’s living room, morning. Sheldon enters, singing to himself.
 
-Sheldon: Morning.
+**Sheldon**: Morning.
 
-Leonard: Morning.
+**Leonard**: Morning.
 
-Sheldon: I have to say, I slept splendidly. Granted, not long, but just deeply and well.
+**Sheldon**: I have to say, I slept splendidly. Granted, not long, but just deeply and well.
 
-Leonard: I’m not surprised. A well known folk cure for insomnia is to break into your neighbour’s apartment and clean.
+**Leonard**: I’m not surprised. A well known folk cure for insomnia is to break into your neighbour’s apartment and clean.
 
-Sheldon: Sarcasm?
+**Sheldon**: Sarcasm?
 
-Leonard: You think?
+**Leonard**: You think?
 
-Sheldon: Granted, my methods may have been somewhat unorthodox, but I think the end result will be a measurable enhancement of Penny’s quality of life.
+**Sheldon**: Granted, my methods may have been somewhat unorthodox, but I think the end result will be a measurable enhancement of Penny’s quality of life.
 
-Leonard: You know what, you’ve convinced me, maybe tonight we should sneak in and shampoo her carpet.
+**Leonard**: You know what, you’ve convinced me, maybe tonight we should sneak in and shampoo her carpet.
 
-Sheldon: You don’t think that crosses a line?
+**Sheldon**: You don’t think that crosses a line?
 
-Leonard: Yes! For God’s sake, Sheldon, do I have to hold up a sarcasm sign every time I open my mouth.
+**Leonard**: Yes! For God’s sake, Sheldon, do I have to hold up a sarcasm sign every time I open my mouth?
 
-Sheldon: You have a sarcasm sign?
+**Sheldon**: You have a sarcasm sign?
 
-Leonard: No, I do not have a sarcasm sign.
+**Leonard**: No, I do not have a sarcasm sign.
 
-Sheldon: Do you want some cereal. I’m feeling so good today I’m going to choose from the low fibre end of the shelf. Hello, Honey Puffs.
+**Sheldon**: Do you want some cereal? I’m feeling so good today I’m going to choose from the low fibre end of the shelf. Hello, Honey Puffs.
 
-Penny (voice off): Son of a Bitch!
+**Penny** *(voice off)*: Son of a Bitch!
 
-Leonard: Penny’s up.
+**Leonard**: Penny’s up.
 
-Penny (voice off): You sick, geeky bastards!
+**Penny** *(voice off)*: You sick, geeky bastards!
 
-Leonard: How did she know it was us?
+**Leonard**: How did she know it was us?
 
-Sheldon: I may have left a suggested organisational schematic for her bedroom closet.
+**Sheldon**: I may have left a suggested organisational schematic for her bedroom closet.
 
-Penny (voice off): Leonard!
+**Penny** *(voice off)*: Leonard!
 
-Leonard: God, this is going to be bad.
+**Leonard**: God, this is going to be bad.
 
-Sheldon: Goodbye, Honey Puffs, hello Big Bran.
+**Sheldon** *(Put cereal back to the shelf)*: Goodbye, Honey Puffs, hello Big Bran.
 
-Penny (entering): You came into my apartment last night when I was sleeping?
+**Penny** *(entering)*: You came into my apartment last night when I was sleeping?
 
-Leonard: Yes, but, only to clean.
+**Leonard**: Yes, but, only to clean.
 
-Sheldon: Really more to organise, you’re not actually dirty, per se.
+**Sheldon**: Really more to organise, you’re not actually dirty, per se.
 
-Penny: Give me back my key.
+**Penny**: Give me back my key.
 
-Leonard: I’m very, very sorry.
+**Leonard**: I’m very, very sorry.
 
-Penny: Do you understand how creepy this is.
+**Penny**: Do you understand how creepy this is.?
 
-Leonard: Oh, yes, we discussed it at length last night.
+**Leonard**: Oh, yes, we discussed it at length last night.
 
-Penny: In my apartment, while I was sleeping.
+**Penny**: In my apartment! While I was sleeping!
 
-Sheldon: And snoring. And that’s probably just a sinus infection, but it could be sleep apnoea, you might want to see an otolaryngologist. It’s a throat doctor.
+**Sheldon**: And snoring. And that’s probably just a sinus infection, but it could be sleep apnoea, you might want to see an otolaryngologist. It’s a throat doctor.
 
-Penny: And what kind of doctor removes shoes from asses?
+**Penny** *(A step closer to **Sheldon**, voice threatingly)*: And what kind of doctor removes shoes from asses?
 
-Sheldon: Depending on the depth, that’s either a proctologist or a general surgeon. (Leonard holds up a sign reading “Sarcasm”) Oh!
+**Sheldon**: Depending on the depth, that’s either a proctologist or a general surgeon. *(**Leonard** holds up a sign reading “Sarcasm”)* Oh!
 
-Penny: God!
+**Penny**: God!
 
-Leonard: Okay, look, no Penny, I think what you’re feeling is perfectly valid, and maybe a little bit later today when you’re feeling a little bit less, for lack of a better word, violated, maybe we could talk about this some more.
+**Leonard**: Okay, look, no Penny, I think what you’re feeling is perfectly valid, and maybe a little bit later today when you’re feeling a little bit less, for lack of a better word, violated, maybe we could talk about this some more.
 
-Penny: Stay away from me.
+**Penny**: Stay away from me.
 
-Leonard: Sure, that’s another way to go.
+**Leonard**: Sure, that’s another way to go.
 
-Sheldon: Penny, Penny, just to clarify because there will be a discussion when you leave, is your objection solely to our presence in the apartment while you were sleeping, or do you also object to the imposition of a new organisational paradigm. (Penny stares in disbelief, then leaves.) Well that was a little non-responsive.
+**Sheldon**: Penny, Penny, just to clarify because there will be a discussion when you leave, is your objection solely to our presence in the apartment while you were sleeping, or do you also object to the imposition of a new organisational paradigm. *(**Penny** stares in disbelief, then leaves.)* Well that was a little non-responsive.
 
-Leonard: You are going to march yourself over there right now and apologise. (Sheldon laughs.) What’s funny?
+**Leonard**: You are going to march yourself over there right now and apologise. *(**Sheldon** laughs.)* What’s funny?
 
-Sheldon: That wasn’t sarcasm?
+**Sheldon**: That wasn’t sarcasm?
 
-Leonard: No.
+**Leonard**: No!
 
-Sheldon: Wooh, boy, you are all over the place this morning. (Knocks on Penny’s door.) I have a masters and two PhD’s, I should not have to do this.
+**Sheldon**: Wooh, boy, you are all over the place this morning. *(Knocks on **Penny**’s door.)* I have a masters and two PhD’s, I should not have to do this.
 
-Penny (opening door): What?
+**Penny** *(opening door angrily)*: What?
 
-Sheldon: I am truly sorry for what happened last night, I take full responsibility. And I hope that it won’t colour your opinion of Leonard, who is not only a wonderful guy, but also, I hear, a gentle and thorough lover. (Penny closes door in his face.) I did what I could.
+**Sheldon**: I am truly sorry for what happened last night, I take full responsibility. And I hope that it won’t colour your opinion of Leonard, who is not only a wonderful guy, but also, I hear, a gentle and thorough lover. *(**Leonard** looks akward; **Penny** closes door in his face.)* I did what I could.
 
-Scene: The stairwell. Raj is coming up the stairs, he meets Penny who is going down.
+## Scene: The stairwell. Raj is coming up the stairs, he meets Penny who is going down.
 
 Penny: Hey Raj. (Raj stands looking uncomfortable.) Hey, listen, I don’t know if you heard about what happened last night with Leonard and Sheldon, but I’m really upset about it, I mean they just, they let themselves into my place, and then they cleaned it, I mean can you even believe that? How weird is that?
 
